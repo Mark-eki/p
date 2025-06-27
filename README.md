@@ -17,12 +17,5 @@
 ### 2.1 Data statistics
 ##### The statistics for the original data are as follows
 
-  Number.of.Engines 	Total.Fatal.Injuries 	Total.Serious.Injuries 	Total.Minor.Injuries 	Total.Uninjured
-|count  |    82805.000000  |  77488.000000 	          76379.000000 	        76956.000000        	82977.000000
-mean         1.146585 	        0.647855 	               0.279881 	            0.357061          	5.325440
-std 	       0.446510 	        5.485960 	               1.544084 	            2.235625 	          27.913634
-min 	       0.000000 	        0.000000 	               0.000000 	            0.000000          	0.000000
-25% 	       1.000000 	        0.000000 	               0.000000 	            0.000000           	0.000000
-50% 	       1.000000 	        0.000000               	 0.000000 	            0.000000 	          1.000000
-75% 	       1.000000 	        0.000000 	               0.000000 	            0.000000 	          2.000000
-max 	       8.000000 	        349.000000 	             161.000000 	          380.000000 	        699.000000
+Number.of.Engines|Total.Fatal.Injuries 	Total.Serious.Injuries 	Total.Minor.Injuries 	Total.Uninjured
+_________________|____________________	       
