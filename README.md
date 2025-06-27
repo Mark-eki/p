@@ -17,6 +17,8 @@
 ### 2.1 Data statistics
 ##### The statistics for the original data are as follows
 
-| Statistic | Number of Engines | Total Fatal Injuries | 
-|-----------|-------------------|----------------------|
+| Statistic | Number of Engines | Total Fatal Injuries | Total Serious Injuries | Total Minor Injuries | Total Uninjured |
+|-----------|-------------------|----------------------| ---------------------- | -------------------- | --------------- |
+| Count     |
+| Mean      |
 	       
