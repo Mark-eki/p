@@ -27,3 +27,17 @@
 | 50%       | 1.000000          |    0.000000          |    0.000000            |   0.000000           |   1.000000
 | 75%       | 1.000000          |    0.000000          |    0.000000            |   0.000000           |   2.000000
 | Max       | 8,000000          |  349.000000          |  161.000000            | 380.000000           | 699.000000
+
+### 2.2 Data Quality
+##### Our Data included some missing values in our columns which we are supposed to deal with before proceeding to analyse our data. 
+### 2.3 Data analysis
+#####  Here we are going to use some key columns to analyse our data mainly
+##### 1. Amateur built
+##### 2. Make
+##### 3. Aircraft Damage
+##### 4. Total Fatal Injuries
+##### 5. Number of Engines
+##### 6. Engine Type
+##### 7. Weather condition
+
+
