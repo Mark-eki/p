@@ -41,5 +41,10 @@
 ##### 7. Weather condition
 ## ** Tableau Dashboard**
 ##### Visualisatons can be found through
+## 3.Summary
+##### 1. Multiple engine plane are safer to use beacuse they have low fatalities and accident
+##### 2. Prioritise getting the planes with latest technology
+##### 3. Rigorius training and retraining of pilots in case of emergency like failure of instruments
+##### In conclusion, more information is required like size of plane, weight etc for further analysis and a more informed analysis.
 
 
