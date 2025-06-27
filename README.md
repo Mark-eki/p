@@ -12,5 +12,12 @@
 ### 2.1 Here we look at what our data looks like
 ##### Our data has 88889 rows and 31 columns
 ##### The columns are
-1. Event.ID
-2. Invetigation.Type
+##### (['Event.Id', 'Investigation.Type', 'Accident.Number', 'Event.Date',
+       'Location', 'Country', 'Latitude', 'Longitude', 'Airport.Code',
+       'Airport.Name', 'Injury.Severity', 'Aircraft.damage',
+       'Aircraft.Category', 'Registration.Number', 'Make', 'Model',
+       'Amateur.Built', 'Number.of.Engines', 'Engine.Type', 'FAR.Description',
+       'Schedule', 'Purpose.of.flight', 'Air.carrier', 'Total.Fatal.Injuries',
+       'Total.Serious.Injuries', 'Total.Minor.Injuries', 'Total.Uninjured',
+       'Weather.Condition', 'Broad.phase.of.flight', 'Report.Status',
+       'Publication.Date']
