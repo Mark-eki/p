@@ -17,5 +17,6 @@
 ### 2.1 Data statistics
 ##### The statistics for the original data are as follows
 
-|Number.of.Engines | Total.Fatal.Injuri
+| Number.of.Engines | Total.Fatal.Injuries|
+| _________________ | ____________________|
 	       
