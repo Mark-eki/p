@@ -12,36 +12,4 @@
 ### 2.1 Here we look at what our data looks like
 ##### Our data has 88889 rows and 31 columns
 ##### The columns are
-#####  #   Column                  Non-Null  Dtype  
----  ------                  --------------  -----  
- 0   Event.Id                 non-null  object 
- 1   Investigation.Type       non-null  object 
- 2   Accident.Number          non-null  object 
- 3   Event.Date               non-null  object 
- 4   Location                 non-null  object 
- 5   Country                  non-null  object 
- 6   Latitude                 non-null  object 
- 7   Longitude                non-null  object 
- 8   Airport.Code             non-null  object 
- 9   Airport.Name             non-null  object 
- 10  Injury.Severity          non-null  object 
- 11  Aircraft.damage          non-null  object 
- 12  Aircraft.Category        non-null  object 
- 13  Registration.Number      non-null  object 
- 14  Make                     non-null  object 
- 15  Model                    non-null  object 
- 16  Amateur.Built            non-null  object 
- 17  Number.of.Engines        non-null  float64
- 18  Engine.Type              non-null  object 
- 19  FAR.Description         32023 non-null  object 
- 20  Schedule                12582 non-null  object 
- 21  Purpose.of.flight       82697 non-null  object 
- 22  Air.carrier             16648 non-null  object 
- 23  Total.Fatal.Injuries    77488 non-null  float64
- 24  Total.Serious.Injuries  76379 non-null  float64
- 25  Total.Minor.Injuries    76956 non-null  float64
- 26  Total.Uninjured         82977 non-null  float64
- 27  Weather.Condition       84397 non-null  object 
- 28  Broad.phase.of.flight   61724 non-null  object 
- 29  Report.Status           82505 non-null  object 
- 30  Publication.Date        75118 non-null  object 
+|1.| Event.ID
