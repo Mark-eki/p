@@ -13,3 +13,4 @@
 ##### Our data has 88889 rows and 31 columns
 ##### The columns are
 1. Event.ID
+2. Invetigation.Type
