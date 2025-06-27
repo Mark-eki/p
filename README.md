@@ -12,4 +12,4 @@
 ### 2.1 Here we look at what our data looks like
 ##### Our data has 88889 rows and 31 columns
 ##### The columns are
-|1.| Event.ID
+1. Event.ID
